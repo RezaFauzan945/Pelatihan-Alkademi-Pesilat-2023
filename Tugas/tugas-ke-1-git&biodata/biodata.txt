@@ -1,0 +1,30 @@
+Nama lengkap: Reza Fauzan Adhima 
+
+Tempat dan tanggal lahir: Bandung, 04-September-2003
+
+Alamat:JL. Terusan Soreang Cipatik No.16 Kp.Sukarame RT:03 RW:01, Desa Parungserab, Kec.Soreang, Kab.Bandung, Jawa Barat
+
+Pendidikan terakhir:SMK Negeri 1 Katapang, Jurusan Rekayasa Perangkat Lunak, Lulus pada 22 Juni 2022
+
+Pengalaman kerja : 
+Freelance sebagai Fullstack web developer Selama 3 tahun meliputi beberapa project yang dikerjakan sebagai berikut
+•   Relawan Pembuatan Website Quick Count Pada Pemilu 2020
+•   Pembuatan Website Persuratan Kelurahan dari Desa Meliau Hilir Kalimantan Barat 
+•   Pembuatan Website Sistem Pelayanan Catatan Sipil Kecamatan dari Jakarta  
+
+dan beberapa project lainnya yang tidak bisa saya publikasi
+
+Keterampilan atau keahlian: 
+•   Menguasai HTML,CSS,Javascript,Java,C++,Sedikit Python
+•   Menguasai Framework: Codeigniter 4, Laravel 10,Spring Boot,Quarkus,Bootstrap,Sedikit React,Flutter
+
+Kelebihan Tambahan: 
+•	Terbiasa bekerja dan berkolaborasi dengan tim
+•	Terbiasa dengan SDLC Agile dan Kerangka kerja Scrum
+
+
+Hobi:Sains dan Teknologi,Robotic,Machine Learning
+
+Nomor telepon:+6285659766175
+
+Alamat email:rezafauzan593@gmail.com
